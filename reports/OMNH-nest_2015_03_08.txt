@@ -1,0 +1,53 @@
+Report for Institution Code OMNH, Resource nest
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 0
+Number of records retrieved in searches: 0
+Number of different countries where searches have been originated: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 326 download events in this period)
+Total number of records downloaded: 21 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 21
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-16 ; Times: 1
+	Date: 2015-02-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "galbula" ; Times: 1
+	Query: "(turdus OR zoothera)" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 9
+Total number of records retrieved from searches: 111
+Number of download events that retrieved data from the resource: 5
+Total number of records downloaded: 46
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 10
+Total number of records retrieved from searches: 183
+Number of download events that retrieved data from the resource: 11
+Total number of records downloaded: 75
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
