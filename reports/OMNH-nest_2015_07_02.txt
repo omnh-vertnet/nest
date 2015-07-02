@@ -1,0 +1,70 @@
+Report for Institution Code OMNH, Resource nest
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 303
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-12 ; Times: 2
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "archilochus alexandri oklahoma" ; Times: 2
+	Query: "prairie warbler" ; Times: 1
+	Query: ""OMNH Nest" institutioncode:omnh" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1524 download events in this period)
+Total number of records downloaded: 21 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 16
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: Germany ; Times: 2
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-05 ; Times: 1
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-25 ; Times: 1
+	Date: 2015-06-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Archilochus colubris" ; Times: 1
+	Query: "Selasphorus rufus" ; Times: 1
+	Query: "Butorides virescens" ; Times: 1
+	Query: "trochilidae" ; Times: 1
+	Query: "Selasphorus sasin" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 16
+Total number of records retrieved from searches: 415
+Number of download events that retrieved data from the resource: 18
+Total number of records downloaded: 158
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 17
+Total number of records retrieved from searches: 487
+Number of download events that retrieved data from the resource: 24
+Total number of records downloaded: 187
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
