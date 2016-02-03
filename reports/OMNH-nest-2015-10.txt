@@ -1,0 +1,42 @@
+Report for Institution Code OMNH, Resource nest
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 500
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-26 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "collectioncode:nest" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 823 download events in this period)
+Total number of records downloaded: 18
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-30 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-23 ; Times: 1
+	Date: 2015-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "county:&#34;Bandera&#34; mappable:1" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "Selasphorus rufus type:specimen" ; Times: 1
+
+
+End of report.
