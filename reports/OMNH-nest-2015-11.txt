@@ -1,0 +1,39 @@
+Report for Institution Code OMNH, Resource nest
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 0
+Number of records retrieved in searches: 0
+Number of different countries where searches have been originated: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 751 download events in this period)
+Total number of records downloaded: 108
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Sweden ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-26 ; Times: 2
+	Date: 2015-11-30 ; Times: 2
+	Date: 2015-11-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ploceus" ; Times: 2
+	Query: "type:specimen (selasphorus) AND (NOT scintilla NOT ardens NOT flammula NOT platycercus NOT rufus NOT calliope NOT torridus NOT simoni)" ; Times: 1
+	Query: "class:aves mappable:1 year&gt;=1976 year&lt;=1977" ; Times: 1
+	Query: "class:aves mappable:1 year&gt;=1976 year&lt;=1986" ; Times: 1
+	Query: "type:specimen (selasphorus) AND (NOT rufus AND NOT platycercus)" ; Times: 1
+
+
+End of report.
