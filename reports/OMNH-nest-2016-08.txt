@@ -1,0 +1,42 @@
+Report for Institution Code OMNH, Resource nest
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 0
+Number of records retrieved in searches: 0
+Number of different countries where searches have been originated: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 924 download events in this period)
+Total number of records downloaded: 22
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-18 ; Times: 1
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-30 ; Times: 1
+	Date: 2016-08-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "White-crowned Sparrow" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "lanius ludovicianus" ; Times: 1
+	Query: "Apodidae" ; Times: 1
+
+
+End of report.
