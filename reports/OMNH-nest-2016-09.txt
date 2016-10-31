@@ -1,0 +1,40 @@
+Report for Institution Code OMNH, Resource nest
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 141
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-04 ; Times: 2
+	Date: 2016-09-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vireo atricapilla" ; Times: 2
+	Query: "Cardinalis cardinalis 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 811 download events in this period)
+Total number of records downloaded: 111
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-04 ; Times: 1
+	Date: 2016-09-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Peucaea aestivalis" ; Times: 1
+	Query: "vireo atricapilla" ; Times: 1
+
+
+End of report.
