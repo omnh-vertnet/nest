@@ -1,0 +1,55 @@
+Report for Institution Code OMNH, Resource nest
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4
+Number of records retrieved in searches: 4
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Peru ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-24 ; Times: 3
+	Date: 2018-07-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Nyctanassa violacea mappable:1" ; Times: 1
+	Query: "Catharus minimus mappable:1" ; Times: 1
+	Query: "Setophaga cerulea mappable:1" ; Times: 1
+	Query: "cerulean" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 977 download events in this period)
+Total number of records downloaded: 55
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-31 ; Times: 1
+	Date: 2018-07-30 ; Times: 6
+	Date: 2018-07-20 ; Times: 1
+	Date: 2018-07-17 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:bellii genus:Vireo order:Passeriformes" ; Times: 1
+	Query: "Comal county" ; Times: 1
+	Query: "specificepithet:magna genus:Sturnella" ; Times: 1
+	Query: "Peucaea aestivalis" ; Times: 1
+	Query: "specificepithet:flaviceps genus:Auriparus" ; Times: 1
+	Query: "specificepithet:curvirostre genus:Toxostoma" ; Times: 1
+	Query: "specificepithet:fusca genus:Melozone" ; Times: 1
+	Query: "Catharus ustulatus" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella" ; Times: 1
+	Query: "specificepithet:sialis genus:Sialia" ; Times: 1
+	Query: "specificepithet:bilineata genus:Amphispiza" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus family:Troglodytidae order:Passeriformes" ; Times: 1
+
+
+End of report.
