@@ -1,0 +1,45 @@
+Report for Institution Code OMNH, Resource nest
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1
+Number of records retrieved in searches: 1
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Nyctanassa specificepithet:violacea" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1182 download events in this period)
+Total number of records downloaded: 25
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-04 ; Times: 5
+	Date: 2019-06-05 ; Times: 1
+	Date: 2019-06-11 ; Times: 1
+	Date: 2019-06-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "selasphorus rufus" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "blue jay" ; Times: 1
+	Query: "White crowned Sparrow" ; Times: 1
+	Query: "ruby throated hummingbird" ; Times: 2
+	Query: "ruby-throated hummingbird" ; Times: 2
+	Query: "Turdus migratorius" ; Times: 1
+
+
+End of report.
