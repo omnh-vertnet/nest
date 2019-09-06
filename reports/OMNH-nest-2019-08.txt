@@ -1,0 +1,51 @@
+Report for Institution Code OMNH, Resource nest
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 60
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-02 ; Times: 1
+	Date: 2019-08-15 ; Times: 5
+	Date: 2019-08-14 ; Times: 2
+	Date: 2019-08-13 ; Times: 3
+	Date: 2019-08-05 ; Times: 2
+	Date: 2019-08-22 ; Times: 3
+	Date: 2019-08-20 ; Times: 3
+	Date: 2019-08-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "catalognumber:244" ; Times: 1
+	Query: "Lampornis clemenciae" ; Times: 1
+	Query: "Setophaga cerulea" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 1
+	Query: "Vireo bellii" ; Times: 9
+	Query: "Spiza americana" ; Times: 1
+	Query: "Porphyrio martinica" ; Times: 3
+	Query: "Coccyzus americanus" ; Times: 2
+	Query: "Coccyzus americanus americanus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1034 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
