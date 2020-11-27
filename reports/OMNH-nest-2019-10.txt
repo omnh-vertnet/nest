@@ -1,0 +1,41 @@
+Report for Institution Code OMNH, Resource nest
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4
+Number of records retrieved in searches: 42
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-22 ; Times: 1
+	Date: 2019-10-07 ; Times: 2
+	Date: 2019-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vireo atricapilla" ; Times: 1
+	Query: "omnh 50000" ; Times: 2
+	Query: "Coccyzus americanus 2013" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1308 download events in this period)
+Total number of records downloaded: 4
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-28 ; Times: 1
+	Date: 2019-10-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Setophaga americana" ; Times: 1
+	Query: "Mourning dove" ; Times: 1
+
+
+End of report.
