@@ -1,0 +1,41 @@
+Report for Institution Code OMNH, Resource nest
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4
+Number of records retrieved in searches: 6
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-07 ; Times: 2
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Coccyzus americanus 2015" ; Times: 1
+	Query: "Coccyzus americanus 2013" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1367 download events in this period)
+Total number of records downloaded: 64
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-06 ; Times: 2
+	Date: 2019-11-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Columbiformes" ; Times: 2
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "family:Cardinalidae (nest)" ; Times: 1
+
+
+End of report.
