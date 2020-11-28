@@ -1,0 +1,40 @@
+Report for Institution Code OMNH, Resource nest
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2
+Number of records retrieved in searches: 4
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Meadowlark nest" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 474 download events in this period)
+Total number of records downloaded: 12
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-10 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:rubra genus:Piranga" ; Times: 1
+	Query: "specificepithet:violacea genus:Nyctanassa" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "specificepithet:rustica genus:Hirundo" ; Times: 1
+	Query: "Hirundo rustica" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+
+
+End of report.
